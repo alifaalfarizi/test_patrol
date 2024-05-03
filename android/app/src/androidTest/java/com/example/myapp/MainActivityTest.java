@@ -1,4 +1,4 @@
-package com.example.myapp; // replace "com.example.myapp" with your app's package
+package com.example.myapp;
 
 import androidx.test.platform.app.InstrumentationRegistry;
 import org.junit.Test;
